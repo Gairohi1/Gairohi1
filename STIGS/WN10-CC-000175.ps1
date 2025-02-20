@@ -1,7 +1,6 @@
  <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
-
+    This PowerShell script ensures that the Application Compatibility Program Inventory must be prevented from collecting data and sending the information to Microsoft.
 .NOTES
     Author          : Gregory Airohi
     LinkedIn        : https://www.linkedin.com/in/gregory-airohi
